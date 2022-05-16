@@ -1,0 +1,8 @@
+body {
+    position: relative;
+}
+
+.progress-circle {
+    border-color: green green black green;
+    border-radius: 100%;
+}
